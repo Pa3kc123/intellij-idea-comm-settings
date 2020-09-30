@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="mfs" type="GLSL shader file" />
+      <mapping ext="mvs" type="GLSL shader file" />
+      <mapping ext="main.kts" type="Kotlin" />
+    </extensionMap>
+  </component>
+</application>
