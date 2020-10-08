@@ -9,7 +9,7 @@
   <tool name="Tomcat 7" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="$USER_HOME$/Downloads/apache-tomcat-7.0.106/bin/catalina.sh" />
-      <option name="PARAMETERS" value="jpda run" />
+      <option name="PARAMETERS" value="jpda run -Djava.library.path=/home/patrik/Downloads/apache-tomcat-7.0.106/bin" />
       <option name="WORKING_DIRECTORY" value="$USER_HOME$/Downloads/apache-tomcat-7.0.106/bin" />
     </exec>
   </tool>
