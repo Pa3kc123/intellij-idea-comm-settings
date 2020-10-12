@@ -4,6 +4,7 @@
       <mapping ext="mfs" type="GLSL shader file" />
       <mapping ext="mvs" type="GLSL shader file" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern=".pom.xml.swp" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
