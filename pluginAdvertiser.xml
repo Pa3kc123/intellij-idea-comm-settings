@@ -497,6 +497,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.obj">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="it.czerwinski.intellij.wavefront" />
+              <option name="myPluginName" value="Wavefront OBJ" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.odt">
           <value>
             <plugin>
