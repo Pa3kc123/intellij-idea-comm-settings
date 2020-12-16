@@ -1,0 +1,5 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://www.thymeleaf.org" location="$USER_HOME$/Documents/projects/springboot/atons/xhtml1-strict-thymeleaf-4.dtd" />
+  </component>
+</application>
