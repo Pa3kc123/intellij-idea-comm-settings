@@ -7,10 +7,10 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="build.gradle" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>pom.xml</mask>
     <mask>*.kt</mask>
-    <mask>*.java</mask>
     <mask>build.gradle</mask>
+    <mask>*.java</mask>
   </component>
 </application>

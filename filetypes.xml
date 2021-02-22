@@ -7,7 +7,6 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".pom.xml.swp" type="PLAIN_TEXT" />
       <mapping ext="processor" type="PLAIN_TEXT" />
-      <mapping ext="csv" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="mfs" approved="true" type="Wavefront OBJ File" />
       <removed_mapping ext="psd" approved="true" type="Image" />

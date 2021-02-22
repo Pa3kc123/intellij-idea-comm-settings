@@ -4,7 +4,7 @@
     <property name="created">2021-01-22T08:09:57</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2020.3.1.0.0</property>
-    <property name="modified">2021-01-22T08:10:31</property>
+    <property name="modified">2021-02-14T13:18:33</property>
     <property name="originalScheme">VSCodeDarkPlus</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -34,6 +34,11 @@
     <option name="VISUAL_INDENT_GUIDE" value="3b3b3b" />
   </colors>
   <attributes>
+    <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="ff0000" />
+      </value>
+    </option>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
       <value />
     </option>
@@ -263,6 +268,11 @@
         <option name="FOREGROUND" value="d7ba7d" />
       </value>
     </option>
+    <option name="ENUM_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="8080ff" />
+      </value>
+    </option>
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="569cd6" />
@@ -466,6 +476,9 @@
         <option name="FOREGROUND" value="ce9178" />
       </value>
     </option>
+    <option name="HTML_CODE">
+      <value />
+    </option>
     <option name="HTML_TAG">
       <value>
         <option name="FOREGROUND" value="808080" />
@@ -518,9 +531,7 @@
       <value />
     </option>
     <option name="KOTLIN_LABEL">
-      <value>
-        <option name="FOREGROUND" value="499cd5" />
-      </value>
+      <value />
     </option>
     <option name="KOTLIN_LOCAL_VARIABLE">
       <value />
@@ -644,8 +655,8 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
+        <option name="BACKGROUND" value="3b514d" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="878787" />
       </value>
     </option>
     <option name="PHP_ALIAS_REFERENCE">
@@ -756,7 +767,7 @@
     <option name="STATIC_METHOD_ATTRIBUTES">
       <value />
     </option>
-    <option name="Static method access" baseAttributes="STATIC_METHOD_ATTRIBUTES" />
+    <option name="Static method access" baseAttributes="" />
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="d4d4d4" />
@@ -809,7 +820,7 @@
     <option name="XPATH.BRACKET">
       <value />
     </option>
-    <option name="XPATH.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="XPATH.XPATH_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="XPATH.KEYWORD" baseAttributes="" />
+    <option name="XPATH.XPATH_VARIABLE" baseAttributes="" />
   </attributes>
 </scheme>
