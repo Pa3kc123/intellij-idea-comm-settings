@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
       <mapping ext="mfs" type="GLSL shader file" />
       <mapping ext="mvs" type="GLSL shader file" />
       <mapping ext="gradle.kts" type="Kotlin" />
