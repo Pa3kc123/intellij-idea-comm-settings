@@ -4,6 +4,7 @@
       <mapping pattern="oldLeafletMapCode" type="AUTO_DETECTED" />
       <mapping ext="mfs" type="GLSL shader file" />
       <mapping ext="mvs" type="GLSL shader file" />
+      <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".pom.xml.swp" type="PLAIN_TEXT" />
       <mapping ext="processor" type="PLAIN_TEXT" />
